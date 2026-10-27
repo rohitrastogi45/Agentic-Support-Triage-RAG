@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Original and processed datasets
+data/raw/*
+data/processed/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary database files
+*.db
+*.sqlite
+*.sqlite3

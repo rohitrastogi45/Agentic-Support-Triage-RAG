@@ -1,0 +1,8 @@
+column,inferred_dtype_first_chunk,non_null_count,missing_count,missing_percentage,total_rows,file_size_mb
+tweet_id,int64,1406546,0,0.0,1406546,248.29
+author_id,str,1406546,0,0.0,1406546,248.29
+inbound,bool,1406546,0,0.0,1406546,248.29
+created_at,str,1406546,0,0.0,1406546,248.29
+text,str,1406546,0,0.0,1406546,248.29
+response_tweet_id,str,885459,521087,37.0473,1406546,248.29
+in_response_to_tweet_id,float64,1009603,396943,28.2211,1406546,248.29

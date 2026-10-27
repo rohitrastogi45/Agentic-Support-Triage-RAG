@@ -1,0 +1,8 @@
+column,missing_count,missing_percentage,total_rows
+tweet_id,0,0.0,1406546
+author_id,0,0.0,1406546
+inbound,0,0.0,1406546
+created_at,0,0.0,1406546
+text,0,0.0,1406546
+response_tweet_id,521087,37.0473,1406546
+in_response_to_tweet_id,396943,28.2211,1406546

@@ -1,0 +1,3 @@
+rows_with_nonmissing_id,missing_tweet_id_count,duplicate_tweet_id_occurrences_after_first,partition,total_rows,earliest_timestamp_utc,latest_timestamp_utc,invalid_or_missing_timestamps,rows_with_response_tweet_id,rows_with_in_response_to_tweet_id,rows_with_nonmissing_text
+1406546,0,0,member1,1406546,2008-05-08 20:13:59+00:00,2017-12-03 23:14:01+00:00,0,885459,1009603,1406546
+1405228,0,0,member2,1405228,2010-02-16 15:49:47+00:00,2017-12-03 23:12:50+00:00,0,885686,1007836,1405228

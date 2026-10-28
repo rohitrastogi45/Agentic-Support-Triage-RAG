@@ -1,0 +1,2 @@
+sample_size,mean_word_count,median_word_count,min_word_count,max_word_count,mean_character_count,p25_word_count,p75_word_count,p90_word_count
+15000,18.470533333333332,18.0,1,69,105.90646666666666,10.0,24.0,31.0

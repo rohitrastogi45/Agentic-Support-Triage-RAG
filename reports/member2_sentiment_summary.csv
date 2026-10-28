@@ -1,0 +1,4 @@
+sentiment,count,percentage,sample_size
+positive,5761,38.406666666666666,15000
+neutral,4371,29.14,15000
+negative,4868,32.45333333333333,15000
